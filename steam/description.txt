@@ -1,0 +1,26 @@
+A lightning-fast roguelike deckbuilding auto-battler.  Puts the Chess back in "auto chess".
+
+Hey folks, Jason Rohrer here.  I've been making games for 22 years now.  My last game, One Hour One Life, was a massive project that spanned 10 years of my life.  Dozens of interconnected servers, reams of player data, thousands of unique game objects, and so on.  Going forward from here, at age 48, I'm scaling things back a bit, and focusing on making smaller games with the time that I have left.
+
+22 years of game dev also meant 22 years of code accumulation, and the game framework that I built over that time grew to be a bit unwieldy.  I was chained to code, deep in my framework, that I first wrote way back in college, when I was just learning to program.  Even worse, all this code had some pretty fragile dependencies that were getting a little long in the tooth themselves (like SDL 1.2, or even OpenGL).
+
+Lesson learned after a lifetime of coding:  every dependency eventually breaks.
+
+So, along with making smaller games, I'm starting over from scratch, building the streamlined, high-performance game engine that I always wished that I had---an engine built from the ground up based on everything that I've learned.   And this new engine has absolutely no dependencies, since it uses no libraries at all and binds directly to the low-level system calls on each target platform.
+
+I plan to build a series of small, single-player games with this brand new engine, with Chessamphetamine being the first one.
+
+I'm thinking of these new games as MICRODOSE games, which will be Tiny, Cheap, and Deep.
+
+Earlier in my career, single player games seemed like something of an exhausted design space (we had small arcade and puzzle games, and then huge AAA story games, but that was about it), so I focused on the rich and endless interactions that could come out of multiplayer games.  I even gave a GDC talk and wrote an article about this topic (https://www.escapistmagazine.com/game-design-sketchbook-testing-the-limits-of-single-player/).
+
+But in the intervening years, there has been something of a single-player design renaissance, and now all of the most interesting games are single-player games.
+
+The most fascinating part of this change is that there was nothing stopping anyone from making a game like Balatro on the NES back in the 1980s---it's just that no one had thought of it yet.  Likewise, there was nothing stopping anyone from making the card game Dominion 600 years ago...
+
+This is what's exciting to me, this late in the game:   brand new, transformational, genre-defining games are still out there, waiting to be discovered.  Hopefully I'll be able to unearth a treasure or two before I get too old to dig.
+
+
+Jason Rohrer
+April 2026
+Dover, New Hampshire
