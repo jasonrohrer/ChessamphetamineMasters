@@ -1,0 +1,6 @@
+Pixels are 8x8 blocks in logos
+
+Need to blow up 8x and still fit on 1920x1080 display of Ninja monitor.
+
+200x120 works nicely to make a window that fits on the 1920x1080 display
+and has 8x8 pixel scaling.  Edit gameSize.h
