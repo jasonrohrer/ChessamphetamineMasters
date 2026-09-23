@@ -1,9 +1,9 @@
-Cool consequences of hot asset reloading
+Here's one of the cool consequences of hot asset reloading
 
-Say we're testing a new art style in Chessamphetamine.  Let's let this auto-battling match play out and see what happens.
+Say we're testing a new art style in Chessamphetamine.  We're gonna let this auto-battle play out and see what happens.
 
 Looks like Checkmate.  Let's rewind and find a good pause spot.
 
-Now all we do is a full git checkout of a previous commit with a different art style.  Boom, everything updates.  Check out the head again, and boom, back to the new art style.
+Now we can just do a full git checkout of a previous commit with a different art style.  Boom, everything updates.  Check out the other version, and boom, back to the new art style.
 
-We can even do it while it plays live.p
+We can even toggle them8 while it plays live.
